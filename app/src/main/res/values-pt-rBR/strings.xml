@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">O Corvo</string>
+
+    <string name="theraven">
+        NUMA meia-noite agreste, quando eu lia, lento e triste,\n
+        vagos, curiosos tomos de ciências ancestrais,\n
+        e já quase adormecia, ouvi o que parecia\n
+        o som de alguém que batia levemente a meus umbrais.\n
+        "Uma visita", eu me disse, "est batendo a meus umbrais.\n
+        É só isto, e nada mais".
+    </string>
+
+</resources>
